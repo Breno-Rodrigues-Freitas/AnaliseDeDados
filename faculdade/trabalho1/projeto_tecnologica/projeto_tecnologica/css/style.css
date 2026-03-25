@@ -1,0 +1,32 @@
+/*
+***** LIMPAR FORMTAÇÃO *****
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*
+***** HEADER *****
+*/
+
+#header{
+    background-color: #06c;
+    padding: 15px;
+    text-align: center;
+}
+
+#logo, #menu{
+    padding: 10px;
+}
+
+#header a:link, #header a:visited{
+    color: #fff;
+    padding: 8px 12px;
+}
+
+#header a:hover{
+    color: #06c;
+    background: #fff;
+    text-decoration: none;
+}
