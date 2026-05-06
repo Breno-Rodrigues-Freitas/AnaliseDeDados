@@ -111,3 +111,6 @@ def jogar():
 # Inicia o jogo
 if __name__ == "__main__":
     jogar()
+
+
+#nao terminado código 
